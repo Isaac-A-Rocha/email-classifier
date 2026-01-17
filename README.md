@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 🤖 AutoClassify AI - Triagem Inteligente de E-mails
 
 Um sistema de inteligência artificial moderno para o setor financeiro, capaz de classificar e-mails, analisar arquivos e gerar respostas automáticas com base na intenção do cliente.
@@ -130,5 +135,10 @@ cd backend
 pip install -r ../requirements.txt
 uvicorn main:app --reload
 
+
+# 🤖 AutoClassify AI
+
+> **Status:** 🚀 Online e Funcional  
+> **Acesse agora:** [Clique aqui para testar a aplicação][(https://huggingface.co/spaces/Isaac021/classificador_de_e-mailNLP](https://huggingface.co/spaces/Isaac021/emailclassifierNLP)
 👨‍💻 Autor:
 Isaac Alves Rocha - Desenvolvedor do Projeto
